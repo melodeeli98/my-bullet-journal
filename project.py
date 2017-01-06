@@ -1,3 +1,10 @@
+####################################
+# My Bullet Journal
+# Created by Melodee S. Li (melodeeli98@gmail.com)
+# Carnegie Mellon University
+# Video demonstration: https://www.youtube.com/watch?v=wIegmgyDaIM
+####################################
+
 from tkinter import *
 import datetime,time,copy,string,math
 
